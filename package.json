@@ -1,0 +1,20 @@
+{
+  "name": "lerna-monorepo",
+  "version": "1.0.0",
+  "description": "Learning lerna",
+  "author": "Carlos B.",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "lerna run build",
+    "test": "lerna run test",
+    "diff": "lerna diff",
+    "new-version": "lerna version --conventional-commits --yes"
+  },
+  "devDependencies": {
+    "lerna": "^6.4.1"
+  }
+}
