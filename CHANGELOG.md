@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/carlosbvz/learning-lerna/compare/v0.3.0...v0.4.0) (2023-01-26)
+
+
+### Features
+
+* Updating title on webapp2 ([285b3cc](https://github.com/carlosbvz/learning-lerna/commit/285b3cce1280c6b645bf6238cb9b716a5401a91e))
+
+
+
+
+
 # [0.3.0](https://github.com/carlosbvz/learning-lerna/compare/v0.2.1...v0.3.0) (2023-01-26)
 
 
